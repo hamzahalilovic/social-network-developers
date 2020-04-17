@@ -8,7 +8,7 @@ const config = require("config");
 
 const User = require("../../models/User");
 
-// @route POST api/auth
+// @route POST api/users
 // @desc  register user
 // @access public
 
